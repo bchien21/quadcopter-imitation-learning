@@ -218,5 +218,5 @@ __marimo__/
 # Other subdirectories
 **/datasets/prev/*
 **/previous_versions/*
-
 **/.vscode/*
+**/examples/*
